@@ -1,0 +1,4 @@
+transaction_id,plan_id,transaction_date,breach_type,disputed_amount
+TXN-1001,Plan_Alpha,2026-03-01,406(a),12500.0
+TXN-1002,Plan_Alpha,2026-03-05,406(a),48200.5
+TXN-1003,Plan_Beta,2026-03-10,406(b),15000.0

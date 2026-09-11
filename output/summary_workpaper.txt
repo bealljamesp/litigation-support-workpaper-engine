@@ -1,0 +1,17 @@
+================================================================================
+EXHIBIT WORKPAPER: EBSA LITIGATION SUPPORT SUPPORTING ANALYSIS
+CASE CAPTION: EBSA v. Vertex Retirement Services LLC (Case No. 2:26-cv-0406)
+STATUTORY AUTHORITY: ERISA SECTION 406 / 408 ENFORCEMENT
+================================================================================
+SUMMARY STATISTICS:
+  - Total Prohibited Transactions Identified: 3
+  - Cumulative Disputed Restitution Amount:   $75,700.50
+--------------------------------------------------------------------------------
+DETAILED PLAN-LEVEL BREAKDOWN:
+--------------------------------------------------------------------------------
+   plan_id breach_type  transaction_count  total_loss_amount  mean_loss_amount  max_loss_amount  cumulative_liability
+Plan_Alpha      406(a)                  2            60700.5          30350.25          48200.5               60700.5
+ Plan_Beta      406(b)                  1            15000.0          15000.00          15000.0               75700.5
+================================================================================
+END OF WORKPAPER - CERTIFIED TRUE AND CORRECT
+================================================================================
