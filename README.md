@@ -1,5 +1,3 @@
-readme_content = """# Litigation Support Workpaper Engine
-
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![pytest](https://img.shields.io/badge/pytest-100%25-green.svg)](https://docs.pytest.org/)
