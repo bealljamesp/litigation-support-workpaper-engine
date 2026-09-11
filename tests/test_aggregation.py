@@ -1,11 +1,14 @@
+# tests/test_aggregation.py
+
 import pandas as pd
+import pytest
 
 from litigation_engine.aggregation import LitigationAggregator
 
 
 def test_compute_prohibited_transfers_tc_agg_01() -> None:
-    """TC-AGG-01: Validates vector aggregation, cumulative liability tracking,
-
+    """
+    TC-AGG-01: Validates vector aggregation, cumulative liability tracking,
     and absence of numerical drift.
     """
     data = pd.DataFrame(
